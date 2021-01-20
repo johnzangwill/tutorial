@@ -1,4 +1,4 @@
 # tutorial
 ttt
 
-nore readme stuff
+more readme stuff
